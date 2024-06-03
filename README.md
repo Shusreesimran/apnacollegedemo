@@ -1,4 +1,4 @@
 # apnacollegedemo
 This is my first git repositor
 <br>
-simran author
+simran pradhan author
